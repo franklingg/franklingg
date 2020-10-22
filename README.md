@@ -11,6 +11,6 @@ But if you're really curious, check it out a little bit.
 
 #### My little contribution so far
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=franklingg&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franklingg&count_private=true&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=html&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 </div>
