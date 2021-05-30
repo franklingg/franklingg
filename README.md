@@ -11,11 +11,9 @@ But if you're really curious, check it out a little bit.
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklingg1" height="22" title="Instagram" />](https://www.instagram.com/franklingg1)
 
 #### My little contribution so far
-<div style="width: 100%">
-  <a style="width: 50%" href="https://github.com/franklingg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=franklingg&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a style="width: 50%" href="https://github.com/franklingg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,css,html,prolog&layout=compact&langs_count=4&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-</div>
+<a href="https://github.com/franklingg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franklingg&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/franklingg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,css,html,prolog&layout=compact&langs_count=4&count_private=true&show_icons=true&theme=dracula" />
+</a>
