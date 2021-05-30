@@ -12,8 +12,10 @@ But if you're really curious, check it out a little bit.
 
 #### My little contribution so far
 <a href="https://github.com/franklingg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franklingg&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franklingg&count_private=true&show_icons=true&hide_rank=true&theme=dracula" />
 </a>
+&emsp;
+&emsp;
 <a href="https://github.com/franklingg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,css,html,prolog&layout=compact&langs_count=4&count_private=true&show_icons=true&theme=dracula" />
 </a>
