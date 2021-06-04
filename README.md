@@ -19,5 +19,5 @@ But if you're really curious, check it out a little bit.
 </a>
 &emsp;
 <a href="https://github.com/franklingg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,css,html,prolog&layout=compact&langs_count=4&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,css,html,prolog,c%2B%2B&layout=compact&langs_count=4&count_private=true&show_icons=true&theme=dracula" />
 </a>
