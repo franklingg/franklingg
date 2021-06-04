@@ -1,8 +1,17 @@
-### Hey there 😄 
+## Hey there 😄 
 
 I'm a newby programmer doing newby programs. I'm learning a lot these days so wait for me, I'll get there!
 
 But if you're really curious, check it out a little bit.
+
+### Who am I? 🤔
+
+My name is Franklin Regis, I'm an undergraduate student on Computer Science on Universidade Federal de Campina Grande (UFCG).
+Although I'm always discovering something new to learn and do, currently I'm skillful on:
+  * ReactJS
+  * NextJS
+  * React-Native
+  * JavaScript/TypeScript
 
 #### You can reach me at:
 
