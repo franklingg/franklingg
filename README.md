@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/61962950/120808536-8ae73b80-c51f-11eb-9a2f-418fe02d6634.gif"></img>
+
 ## Hey there 😄 
 
 I'm a newby programmer doing newby programs. I'm learning a lot these days so wait for me, I'll get there!
