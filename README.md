@@ -10,10 +10,11 @@ But if you're really curious, check it out a little bit.
 
 My name is Franklin Regis, I'm an undergraduate student on Computer Science on Universidade Federal de Campina Grande (UFCG).
 Although I'm always discovering something new to learn and do, currently I'm skillful on:
-  * ReactJS
-  * NextJS
-  * React-Native
   * JavaScript/TypeScript
+  * ReactJS/NextJS
+  * React-Native
+  * Python (Machine Learning)
+  
 
 ### You can reach me at:
 
