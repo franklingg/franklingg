@@ -13,7 +13,7 @@ Although I'm always discovering something new to learn and do, currently I'm enh
   * JavaScript/TypeScript
   * ReactJS/NextJS
   * React-Native
-  * Python (Machine Learning)
+  * Python (Sklearn/Tensorflow)
   
 
 ### You can reach me at:
