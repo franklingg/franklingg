@@ -8,7 +8,7 @@ But if you're really curious, check it out a little bit.
 
 ## Who am I? 🤔
 
-My name is Franklin Regis, I'm an undergraduate student on Computer Science on Universidade Federal de Campina Grande (UFCG).
+My name is Franklin Regis, I'm a Computer Science student on Universidade Federal de Campina Grande (UFCG).
 Although I'm always discovering something new to learn and do, currently I'm enhancing my skills on:
   * JavaScript/TypeScript
   * ReactJS/NextJS
