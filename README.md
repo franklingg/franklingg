@@ -27,5 +27,5 @@ Although I'm always discovering something new to learn and do, currently I'm enh
 <h3 align="center"> My contribution so far </h3>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklingg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,css,html,prolog,c%2B%2B&layout=compact&langs_count=4&count_private=true&theme=dracula"/>
+  <img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,css,html,prolog,c%2B%2B&layout=compact&langs_count=4&count_private=true&theme=dracula"/>
 </div>
