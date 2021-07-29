@@ -24,8 +24,8 @@ Although I'm always discovering something new to learn and do, currently I'm enh
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/franklingg1" height="22" title="Instagram" />](https://www.instagram.com/franklingg1)
 -->
 
-<h3 align="center"> My contribution so far </h3>
+### My contribution so far
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklingg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,css,html,prolog,c%2B%2B&layout=compact&langs_count=7&count_private=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,html,prolog&layout=compact&langs_count=5&count_private=true&theme=dracula"/>
 </div>
