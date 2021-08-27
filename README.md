@@ -2,7 +2,7 @@
 
 <img align="right" width="375" src="https://user-images.githubusercontent.com/61962950/120808536-8ae73b80-c51f-11eb-9a2f-418fe02d6634.gif"></img>
 
-I'm a newby programmer doing some programs. I'm learning a lot these days so wait for me, I'll get there!
+I'm a junior programmer with some experience on web and mobile development. I'm learning a lot these days so wait for me, I'll get there!
 
 But if you're really curious, check it out a little bit.
 
