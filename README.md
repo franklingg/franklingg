@@ -1,4 +1,4 @@
-## Hey there 😄 
+## Hello there 😄 
 
 <img align="right" width="375" src="https://user-images.githubusercontent.com/61962950/120808536-8ae73b80-c51f-11eb-9a2f-418fe02d6634.gif"></img>
 
