@@ -4,8 +4,6 @@
 
 I'm a junior programmer with some experience on web and mobile development. I'm also a constant self developer with the eager to always go beyond!
 
-But if you're really curious, check it out a little bit.
-
 ## Who am I? 🤔
 
 My name is Franklin Regis, I'm a Computer Science student on Universidade Federal de Campina Grande (UFCG).
