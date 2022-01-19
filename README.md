@@ -26,5 +26,5 @@ Although I'm always discovering something new to learn and do, currently I'm enh
 ### My contribution so far
 <div>
   <a href="https://github.com/franklingg"><img height="180em" src="http://github-readme-stats-theta-azure-85.vercel.app/api?username=franklingg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/franklingg"><img height="180em" src="https://github-readme-stats-theta-azure-85.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,prolog&layout=compact&langs_count=5&count_private=true&theme=dracula"/>
+  <a href="https://github.com/franklingg"><img height="180em" src="https://github-readme-stats-theta-azure-85.vercel.app/api/top-langs/?username=franklingg&hide=jupyter%20notebook,haskell,prolog,css&layout=compact&langs_count=5&count_private=true&theme=dracula"/>
 </div>
