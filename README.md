@@ -1,8 +1,17 @@
-## Hello there 😄 
+<h2 align="center"> Hello there 😄 </h1> 
 
-<img align="right" width="375" src="https://user-images.githubusercontent.com/61962950/120808536-8ae73b80-c51f-11eb-9a2f-418fe02d6634.gif"></img>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+I'm a junior programmer with some experience on web and mobile development. I'm also a constant self developer with the eager to always go beyond!  
+  </div>
+</div><br />
+  
+<div align="center">  
+  <div style="display: flex; align-items: flex-start;">
+   <img align="middle" width="375" src="https://user-images.githubusercontent.com/61962950/120808536-8ae73b80-c51f-11eb-9a2f-418fe02d6634.gif" />
+  </div>
+</div>
 
-I'm a junior programmer with some experience on web and mobile development. I'm also a constant self developer with the eager to always go beyond!
 
 ## Who am I? 🤔
 
