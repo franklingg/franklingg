@@ -19,7 +19,7 @@ My name is Franklin Regis, I'm a Computer Science student on Universidade Federa
 Although I'm always discovering something new to learn and do, currently I'm enhancing my skills on:
   * JavaScript/TypeScript
   * ReactJS/NextJS
-  * React-Native
+  * Flutter/React-Native
   * Python
   
 
