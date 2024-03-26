@@ -15,10 +15,10 @@ I'm a junior programmer with some experience on web and mobile development. I'm 
 
 ## Who am I? 🤔
 
-My name is Franklin Regis, I'm a Computer Science student on Universidade Federal de Campina Grande (UFCG).
+My name is Franklin Regis, I'm a Computer Science bachelor and currently pursuing my master's degree in Software Engineering on Universidade Federal de Campina Grande (UFCG).
 Although I'm always discovering something new to learn and do, currently I'm enhancing my skills on:
   * JavaScript/TypeScript
-  * ReactJS/NextJS
+  * ReactJS/NextJS/AngularJS
   * Flutter/React-Native
   * Python
   
